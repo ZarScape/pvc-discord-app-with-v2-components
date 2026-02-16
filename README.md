@@ -1,6 +1,8 @@
 # Repository Archived
 **This repository is no longer maintained and has been set to read-only.**
 
+---
+
 # PVC Discord Bot  
 
 A powerful and polished Discord bot that lets your community create and manage **private temporary voice channels (PVCs)** with ease.  
