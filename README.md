@@ -1,3 +1,6 @@
+##⚠️ Repository Archived
+**This repository is no longer maintained and has been set to read-only.**
+
 # PVC Discord Bot  
 
 A powerful and polished Discord bot that lets your community create and manage **private temporary voice channels (PVCs)** with ease.  
@@ -101,7 +104,7 @@ Built with `discord.js v14` and modern **V2 Components UI**, it gives server own
 
 ## 🙌 Credits  
 
-Developed by **[ZarCodeX](https://github.com/ZarCodeX)**  
+Developed by **[ZarScape](https://github.com/ZarScape)**  
 
 - 🎥 [YouTube](https://www.youtube.com/@ZarCodeX)  
 - 💬 [Discord Server (Zarco HQ)](https://discord.gg/6YVmxA4Qsf)  
