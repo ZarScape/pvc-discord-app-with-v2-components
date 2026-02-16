@@ -1,4 +1,4 @@
-#⚠️ Repository Archived
+# ⚠️ Repository Archived
 **This repository is no longer maintained and has been set to read-only.**
 
 # PVC Discord Bot  
